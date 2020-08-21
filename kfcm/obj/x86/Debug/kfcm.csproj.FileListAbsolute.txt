@@ -1,0 +1,385 @@
+E:\Kharismawan\MicroVis\kfcm\kfcm\obj\x86\Debug\kfcm.Form1.resources
+E:\Kharismawan\MicroVis\kfcm\kfcm\obj\x86\Debug\kfcm.login.resources
+E:\Kharismawan\MicroVis\kfcm\kfcm\obj\x86\Debug\kfcm.Properties.Resources.resources
+E:\Kharismawan\MicroVis\kfcm\kfcm\obj\x86\Debug\kfcm.csproj.GenerateResource.Cache
+E:\Kharismawan\MicroVis\kfcm\kfcm\bin\Debug\kfcm.exe
+E:\Kharismawan\MicroVis\kfcm\kfcm\bin\Debug\kfcm.pdb
+E:\Kharismawan\MicroVis\kfcm\kfcm\obj\x86\Debug\kfcm.exe
+E:\Kharismawan\MicroVis\kfcm\kfcm\obj\x86\Debug\kfcm.pdb
+E:\Kharismawan\MicroVis\kfcm\kfcm\obj\x86\Debug\kfcm.dataakademik.resources
+E:\Kharismawan\MicroVis\kfcm\kfcm\obj\x86\Debug\kfcm.csprojResolveAssemblyReference.cache
+E:\Kharismawan\MicroVis\kfcm\kfcm\obj\x86\Debug\kfcm.input_fcm.resources
+E:\Kharismawan\MicroVis\kfcm\kfcm\obj\x86\Debug\kfcm.input_km.resources
+E:\Kharismawan\Gambaran Besar\[Program]\kfcm\kfcm\obj\x86\Debug\kfcm.exe
+E:\Kharismawan\Gambaran Besar\[Program]\kfcm\kfcm\obj\x86\Debug\kfcm.pdb
+E:\Kharismawan\Gambaran Besar\[Program]\kfcm\kfcm\bin\Debug\kfcm.exe
+E:\Kharismawan\Gambaran Besar\[Program]\kfcm\kfcm\bin\Debug\kfcm.pdb
+E:\Kharismawan\Gambaran Besar\[Program]\kfcm\kfcm\obj\x86\Debug\kfcm.csprojResolveAssemblyReference.cache
+E:\Kharismawan\Gambaran Besar\[Program]\kfcm\kfcm\obj\x86\Debug\kfcm.dataakademik.resources
+E:\Kharismawan\Gambaran Besar\[Program]\kfcm\kfcm\obj\x86\Debug\kfcm.Form1.resources
+E:\Kharismawan\Gambaran Besar\[Program]\kfcm\kfcm\obj\x86\Debug\kfcm.input_fcm.resources
+E:\Kharismawan\Gambaran Besar\[Program]\kfcm\kfcm\obj\x86\Debug\kfcm.input_km.resources
+E:\Kharismawan\Gambaran Besar\[Program]\kfcm\kfcm\obj\x86\Debug\kfcm.login.resources
+E:\Kharismawan\Gambaran Besar\[Program]\kfcm\kfcm\obj\x86\Debug\kfcm.Properties.Resources.resources
+E:\Kharismawan\Gambaran Besar\[Program]\kfcm\kfcm\obj\x86\Debug\kfcm.csproj.GenerateResource.Cache
+E:\Kharismawan\Gambaran Besar\[Program] coba2\kfcm\kfcm\obj\x86\Debug\kfcm.exe
+E:\Kharismawan\Gambaran Besar\[Program] coba2\kfcm\kfcm\obj\x86\Debug\kfcm.pdb
+E:\Kharismawan\Gambaran Besar\[Program] coba2\kfcm\kfcm\obj\x86\Debug\kfcm.csprojResolveAssemblyReference.cache
+E:\Kharismawan\Gambaran Besar\[Program] coba2\kfcm\kfcm\obj\x86\Debug\kfcm.dataakademik.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba2\kfcm\kfcm\obj\x86\Debug\kfcm.Form1.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba2\kfcm\kfcm\obj\x86\Debug\kfcm.input_fcm.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba2\kfcm\kfcm\obj\x86\Debug\kfcm.input_km.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba2\kfcm\kfcm\obj\x86\Debug\kfcm.login.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba2\kfcm\kfcm\obj\x86\Debug\kfcm.Properties.Resources.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba2\kfcm\kfcm\obj\x86\Debug\kfcm.csproj.GenerateResource.Cache
+E:\Kharismawan\Gambaran Besar\[Program] coba2\kfcm\kfcm\bin\Debug\kfcm.exe
+E:\Kharismawan\Gambaran Besar\[Program] coba2\kfcm\kfcm\bin\Debug\kfcm.pdb
+E:\Kharismawan\Gambaran Besar\[Program] coba3 KMEANS\kfcm\kfcm\obj\x86\Debug\kfcm.exe
+E:\Kharismawan\Gambaran Besar\[Program] coba3 KMEANS\kfcm\kfcm\obj\x86\Debug\kfcm.pdb
+E:\Kharismawan\Gambaran Besar\[Program] coba3 KMEANS\kfcm\kfcm\obj\x86\Debug\kfcm.csprojResolveAssemblyReference.cache
+E:\Kharismawan\Gambaran Besar\[Program] coba3 KMEANS\kfcm\kfcm\obj\x86\Debug\kfcm.dataakademik.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba3 KMEANS\kfcm\kfcm\obj\x86\Debug\kfcm.Form1.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba3 KMEANS\kfcm\kfcm\obj\x86\Debug\kfcm.input_fcm.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba3 KMEANS\kfcm\kfcm\obj\x86\Debug\kfcm.input_km.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba3 KMEANS\kfcm\kfcm\obj\x86\Debug\kfcm.login.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba3 KMEANS\kfcm\kfcm\obj\x86\Debug\kfcm.Properties.Resources.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba3 KMEANS\kfcm\kfcm\obj\x86\Debug\kfcm.csproj.GenerateResource.Cache
+E:\Kharismawan\Gambaran Besar\[Program] coba3 KMEANS\kfcm\kfcm\bin\Debug\kfcm.exe
+E:\Kharismawan\Gambaran Besar\[Program] coba3 KMEANS\kfcm\kfcm\bin\Debug\kfcm.pdb
+E:\Kharismawan\Gambaran Besar\[Program] coba3 KMEANS {poles}\kfcm\kfcm\obj\x86\Debug\kfcm.exe
+E:\Kharismawan\Gambaran Besar\[Program] coba3 KMEANS {poles}\kfcm\kfcm\obj\x86\Debug\kfcm.pdb
+E:\Kharismawan\Gambaran Besar\[Program] coba3 KMEANS {poles}\kfcm\kfcm\bin\Debug\kfcm.exe
+E:\Kharismawan\Gambaran Besar\[Program] coba3 KMEANS {poles}\kfcm\kfcm\bin\Debug\kfcm.pdb
+E:\Kharismawan\Gambaran Besar\[Program] coba3 KMEANS {poles}\kfcm\kfcm\obj\x86\Debug\kfcm.csprojResolveAssemblyReference.cache
+E:\Kharismawan\Gambaran Besar\[Program] coba3 KMEANS {poles}\kfcm\kfcm\obj\x86\Debug\kfcm.dataakademik.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba3 KMEANS {poles}\kfcm\kfcm\obj\x86\Debug\kfcm.Form1.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba3 KMEANS {poles}\kfcm\kfcm\obj\x86\Debug\kfcm.input_fcm.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba3 KMEANS {poles}\kfcm\kfcm\obj\x86\Debug\kfcm.input_km.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba3 KMEANS {poles}\kfcm\kfcm\obj\x86\Debug\kfcm.login.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba3 KMEANS {poles}\kfcm\kfcm\obj\x86\Debug\kfcm.Properties.Resources.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba3 KMEANS {poles}\kfcm\kfcm\obj\x86\Debug\kfcm.csproj.GenerateResource.Cache
+E:\Kharismawan\Gambaran Besar\[Program] coba4 fcm\kfcm\kfcm\obj\x86\Debug\kfcm.exe
+E:\Kharismawan\Gambaran Besar\[Program] coba4 fcm\kfcm\kfcm\obj\x86\Debug\kfcm.pdb
+E:\Kharismawan\Gambaran Besar\[Program] coba4 fcm\kfcm\kfcm\obj\x86\Debug\kfcm.csprojResolveAssemblyReference.cache
+E:\Kharismawan\Gambaran Besar\[Program] coba4 fcm\kfcm\kfcm\obj\x86\Debug\kfcm.dataakademik.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba4 fcm\kfcm\kfcm\obj\x86\Debug\kfcm.Form1.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba4 fcm\kfcm\kfcm\obj\x86\Debug\kfcm.input_fcm.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba4 fcm\kfcm\kfcm\obj\x86\Debug\kfcm.input_km.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba4 fcm\kfcm\kfcm\obj\x86\Debug\kfcm.login.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba4 fcm\kfcm\kfcm\obj\x86\Debug\kfcm.Properties.Resources.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba4 fcm\kfcm\kfcm\obj\x86\Debug\kfcm.csproj.GenerateResource.Cache
+E:\Kharismawan\Gambaran Besar\[Program] coba4 fcm\kfcm\kfcm\bin\Debug\kfcm.exe
+E:\Kharismawan\Gambaran Besar\[Program] coba4 fcm\kfcm\kfcm\bin\Debug\kfcm.pdb
+E:\Kharismawan\Gambaran Besar\[Program] coba4 fcm 10data\kfcm\kfcm\obj\x86\Debug\kfcm.exe
+E:\Kharismawan\Gambaran Besar\[Program] coba4 fcm 10data\kfcm\kfcm\obj\x86\Debug\kfcm.pdb
+E:\Kharismawan\Gambaran Besar\[Program] coba4 fcm 10data\kfcm\kfcm\obj\x86\Debug\kfcm.csprojResolveAssemblyReference.cache
+E:\Kharismawan\Gambaran Besar\[Program] coba4 fcm 10data\kfcm\kfcm\obj\x86\Debug\kfcm.dataakademik.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba4 fcm 10data\kfcm\kfcm\obj\x86\Debug\kfcm.Form1.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba4 fcm 10data\kfcm\kfcm\obj\x86\Debug\kfcm.input_fcm.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba4 fcm 10data\kfcm\kfcm\obj\x86\Debug\kfcm.input_km.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba4 fcm 10data\kfcm\kfcm\obj\x86\Debug\kfcm.login.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba4 fcm 10data\kfcm\kfcm\obj\x86\Debug\kfcm.Properties.Resources.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba4 fcm 10data\kfcm\kfcm\obj\x86\Debug\kfcm.csproj.GenerateResource.Cache
+E:\Kharismawan\Gambaran Besar\[Program] coba4 fcm 10data\kfcm\kfcm\bin\Debug\kfcm.exe
+E:\Kharismawan\Gambaran Besar\[Program] coba4 fcm 10data\kfcm\kfcm\bin\Debug\kfcm.pdb
+E:\Kharismawan\Gambaran Besar\[Program] coba4 fcm 10data iterasi dan penghalang\kfcm\kfcm\obj\x86\Debug\kfcm.exe
+E:\Kharismawan\Gambaran Besar\[Program] coba4 fcm 10data iterasi dan penghalang\kfcm\kfcm\obj\x86\Debug\kfcm.pdb
+E:\Kharismawan\Gambaran Besar\[Program] coba4 fcm 10data iterasi dan penghalang\kfcm\kfcm\bin\Debug\kfcm.exe
+E:\Kharismawan\Gambaran Besar\[Program] coba4 fcm 10data iterasi dan penghalang\kfcm\kfcm\bin\Debug\kfcm.pdb
+E:\Kharismawan\Gambaran Besar\[Program] coba4 fcm 10data iterasi dan penghalang\kfcm\kfcm\obj\x86\Debug\kfcm.csprojResolveAssemblyReference.cache
+E:\Kharismawan\Gambaran Besar\[Program] coba4 fcm 10data iterasi dan penghalang\kfcm\kfcm\obj\x86\Debug\kfcm.dataakademik.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba4 fcm 10data iterasi dan penghalang\kfcm\kfcm\obj\x86\Debug\kfcm.Form1.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba4 fcm 10data iterasi dan penghalang\kfcm\kfcm\obj\x86\Debug\kfcm.input_fcm.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba4 fcm 10data iterasi dan penghalang\kfcm\kfcm\obj\x86\Debug\kfcm.input_km.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba4 fcm 10data iterasi dan penghalang\kfcm\kfcm\obj\x86\Debug\kfcm.login.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba4 fcm 10data iterasi dan penghalang\kfcm\kfcm\obj\x86\Debug\kfcm.Properties.Resources.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba4 fcm 10data iterasi dan penghalang\kfcm\kfcm\obj\x86\Debug\kfcm.csproj.GenerateResource.Cache
+E:\Kharismawan\Gambaran Besar\[Program] coba4 fcm ndata iterasi dan penghalang - Copy\kfcm\kfcm\obj\x86\Debug\kfcm.exe
+E:\Kharismawan\Gambaran Besar\[Program] coba4 fcm ndata iterasi dan penghalang - Copy\kfcm\kfcm\obj\x86\Debug\kfcm.pdb
+E:\Kharismawan\Gambaran Besar\[Program] coba5 fcm ndata iterasi dan penghalang - Copy\kfcm\kfcm\obj\x86\Debug\kfcm.exe
+E:\Kharismawan\Gambaran Besar\[Program] coba5 fcm ndata iterasi dan penghalang - Copy\kfcm\kfcm\obj\x86\Debug\kfcm.pdb
+E:\Kharismawan\Gambaran Besar\[Program] coba5 fcm ndata iterasi dan penghalang - Copy\kfcm\kfcm\bin\Debug\kfcm.exe
+E:\Kharismawan\Gambaran Besar\[Program] coba5 fcm ndata iterasi dan penghalang - Copy\kfcm\kfcm\bin\Debug\kfcm.pdb
+E:\Kharismawan\Gambaran Besar\[Program] coba5 fcm ndata iterasi dan penghalang - Copy\kfcm\kfcm\obj\x86\Debug\kfcm.csprojResolveAssemblyReference.cache
+E:\Kharismawan\Gambaran Besar\[Program] coba5 fcm ndata iterasi dan penghalang - Copy\kfcm\kfcm\obj\x86\Debug\kfcm.dataakademik.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba5 fcm ndata iterasi dan penghalang - Copy\kfcm\kfcm\obj\x86\Debug\kfcm.Form1.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba5 fcm ndata iterasi dan penghalang - Copy\kfcm\kfcm\obj\x86\Debug\kfcm.input_fcm.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba5 fcm ndata iterasi dan penghalang - Copy\kfcm\kfcm\obj\x86\Debug\kfcm.input_km.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba5 fcm ndata iterasi dan penghalang - Copy\kfcm\kfcm\obj\x86\Debug\kfcm.login.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba5 fcm ndata iterasi dan penghalang - Copy\kfcm\kfcm\obj\x86\Debug\kfcm.Properties.Resources.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba5 fcm ndata iterasi dan penghalang - Copy\kfcm\kfcm\obj\x86\Debug\kfcm.csproj.GenerateResource.Cache
+E:\Kharismawan\Gambaran Besar\[Program] coba6 benerin data admin bener\kfcm\kfcm\obj\x86\Debug\kfcm.exe
+E:\Kharismawan\Gambaran Besar\[Program] coba6 benerin data admin bener\kfcm\kfcm\obj\x86\Debug\kfcm.pdb
+E:\Kharismawan\Gambaran Besar\[Program] coba6 benerin data admin bener\kfcm\kfcm\obj\x86\Debug\kfcm.csprojResolveAssemblyReference.cache
+E:\Kharismawan\Gambaran Besar\[Program] coba6 benerin data admin bener\kfcm\kfcm\obj\x86\Debug\kfcm.dataakademik.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba6 benerin data admin bener\kfcm\kfcm\obj\x86\Debug\kfcm.Form1.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba6 benerin data admin bener\kfcm\kfcm\obj\x86\Debug\kfcm.input_fcm.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba6 benerin data admin bener\kfcm\kfcm\obj\x86\Debug\kfcm.input_km.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba6 benerin data admin bener\kfcm\kfcm\obj\x86\Debug\kfcm.login.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba6 benerin data admin bener\kfcm\kfcm\obj\x86\Debug\kfcm.menuadmin.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba6 benerin data admin bener\kfcm\kfcm\obj\x86\Debug\kfcm.Properties.Resources.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba6 benerin data admin bener\kfcm\kfcm\obj\x86\Debug\kfcm.csproj.GenerateResource.Cache
+E:\Kharismawan\Gambaran Besar\[Program] coba6 benerin data admin bener\kfcm\kfcm\bin\Debug\kfcm.exe
+E:\Kharismawan\Gambaran Besar\[Program] coba6 benerin data admin bener\kfcm\kfcm\bin\Debug\kfcm.pdb
+E:\Kharismawan\Gambaran Besar\[Program] coba7 prodi\kfcm\kfcm\obj\x86\Debug\kfcm.exe
+E:\Kharismawan\Gambaran Besar\[Program] coba7 prodi\kfcm\kfcm\obj\x86\Debug\kfcm.pdb
+E:\Kharismawan\Gambaran Besar\[Program] coba7 prodi\kfcm\kfcm\bin\Debug\kfcm.exe
+E:\Kharismawan\Gambaran Besar\[Program] coba7 prodi\kfcm\kfcm\bin\Debug\kfcm.pdb
+E:\Kharismawan\Gambaran Besar\[Program] coba7 prodi\kfcm\kfcm\obj\x86\Debug\kfcm.csprojResolveAssemblyReference.cache
+E:\Kharismawan\Gambaran Besar\[Program] coba7 prodi\kfcm\kfcm\obj\x86\Debug\kfcm.dataakademik.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba7 prodi\kfcm\kfcm\obj\x86\Debug\kfcm.Form1.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba7 prodi\kfcm\kfcm\obj\x86\Debug\kfcm.input_fcm.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba7 prodi\kfcm\kfcm\obj\x86\Debug\kfcm.input_km.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba7 prodi\kfcm\kfcm\obj\x86\Debug\kfcm.login.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba7 prodi\kfcm\kfcm\obj\x86\Debug\kfcm.menuadmin.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba7 prodi\kfcm\kfcm\obj\x86\Debug\kfcm.Properties.Resources.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba7 prodi\kfcm\kfcm\obj\x86\Debug\kfcm.csproj.GenerateResource.Cache
+E:\Kharismawan\Gambaran Besar\[Program] coba8 user admin sharing datakademik\kfcm\kfcm\obj\x86\Debug\kfcm.exe
+E:\Kharismawan\Gambaran Besar\[Program] coba8 user admin sharing datakademik\kfcm\kfcm\obj\x86\Debug\kfcm.pdb
+E:\Kharismawan\Gambaran Besar\[Program] coba8 user admin sharing datakademik\kfcm\kfcm\obj\x86\Debug\kfcm.csprojResolveAssemblyReference.cache
+E:\Kharismawan\Gambaran Besar\[Program] coba8 user admin sharing datakademik\kfcm\kfcm\obj\x86\Debug\kfcm.dataakademik.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba8 user admin sharing datakademik\kfcm\kfcm\obj\x86\Debug\kfcm.Form1.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba8 user admin sharing datakademik\kfcm\kfcm\obj\x86\Debug\kfcm.input_fcm.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba8 user admin sharing datakademik\kfcm\kfcm\obj\x86\Debug\kfcm.input_km.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba8 user admin sharing datakademik\kfcm\kfcm\obj\x86\Debug\kfcm.login.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba8 user admin sharing datakademik\kfcm\kfcm\obj\x86\Debug\kfcm.menuadmin.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba8 user admin sharing datakademik\kfcm\kfcm\obj\x86\Debug\kfcm.Properties.Resources.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba8 user admin sharing datakademik\kfcm\kfcm\obj\x86\Debug\kfcm.csproj.GenerateResource.Cache
+E:\Kharismawan\Gambaran Besar\[Program] coba8 user admin sharing datakademik\kfcm\kfcm\bin\Debug\kfcm.exe
+E:\Kharismawan\Gambaran Besar\[Program] coba8 user admin sharing datakademik\kfcm\kfcm\bin\Debug\kfcm.pdb
+E:\Kharismawan\Gambaran Besar\[Program] coba9 rename form\kfcm\kfcm\obj\x86\Debug\kfcm.exe
+E:\Kharismawan\Gambaran Besar\[Program] coba9 rename form\kfcm\kfcm\obj\x86\Debug\kfcm.pdb
+E:\Kharismawan\Gambaran Besar\[Program] coba9 rename form\kfcm\kfcm\bin\Debug\kfcm.exe
+E:\Kharismawan\Gambaran Besar\[Program] coba9 rename form\kfcm\kfcm\bin\Debug\kfcm.pdb
+E:\Kharismawan\Gambaran Besar\[Program] coba9 rename form\kfcm\kfcm\obj\x86\Debug\kfcm.csprojResolveAssemblyReference.cache
+E:\Kharismawan\Gambaran Besar\[Program] coba9 rename form\kfcm\kfcm\obj\x86\Debug\kfcm.dataakademik.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba9 rename form\kfcm\kfcm\obj\x86\Debug\kfcm.Form1.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba9 rename form\kfcm\kfcm\obj\x86\Debug\kfcm.input_fcm.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba9 rename form\kfcm\kfcm\obj\x86\Debug\kfcm.input_km.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba9 rename form\kfcm\kfcm\obj\x86\Debug\kfcm.login.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba9 rename form\kfcm\kfcm\obj\x86\Debug\kfcm.menuadmin.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba9 rename form\kfcm\kfcm\obj\x86\Debug\kfcm.Properties.Resources.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba9 rename form\kfcm\kfcm\obj\x86\Debug\kfcm.csproj.GenerateResource.Cache
+E:\Kharismawan\Gambaran Besar\[Program] coba9a nambahin jumclus\kfcm\kfcm\obj\x86\Debug\kfcm.exe
+E:\Kharismawan\Gambaran Besar\[Program] coba9a nambahin jumclus\kfcm\kfcm\obj\x86\Debug\kfcm.pdb
+E:\Kharismawan\Gambaran Besar\[Program] coba9a nambahin jumclus\kfcm\kfcm\obj\x86\Debug\kfcm.csprojResolveAssemblyReference.cache
+E:\Kharismawan\Gambaran Besar\[Program] coba9a nambahin jumclus\kfcm\kfcm\obj\x86\Debug\kfcm.dataakademik.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba9a nambahin jumclus\kfcm\kfcm\obj\x86\Debug\kfcm.Form1.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba9a nambahin jumclus\kfcm\kfcm\obj\x86\Debug\kfcm.input_fcm.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba9a nambahin jumclus\kfcm\kfcm\obj\x86\Debug\kfcm.input_km.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba9a nambahin jumclus\kfcm\kfcm\obj\x86\Debug\kfcm.login.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba9a nambahin jumclus\kfcm\kfcm\obj\x86\Debug\kfcm.menuadmin.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba9a nambahin jumclus\kfcm\kfcm\obj\x86\Debug\kfcm.Properties.Resources.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba9a nambahin jumclus\kfcm\kfcm\obj\x86\Debug\kfcm.csproj.GenerateResource.Cache
+E:\Kharismawan\Gambaran Besar\[Program] coba9a nambahin jumclus\kfcm\kfcm\bin\Debug\kfcm.exe
+E:\Kharismawan\Gambaran Besar\[Program] coba9a nambahin jumclus\kfcm\kfcm\bin\Debug\kfcm.pdb
+E:\Kharismawan\Gambaran Besar\[Program] coba9b nambahin centroid\kfcm\kfcm\obj\x86\Debug\kfcm.exe
+E:\Kharismawan\Gambaran Besar\[Program] coba9b nambahin centroid\kfcm\kfcm\obj\x86\Debug\kfcm.pdb
+E:\Kharismawan\Gambaran Besar\[Program] coba9b nambahin centroid\kfcm\kfcm\bin\Debug\kfcm.exe
+E:\Kharismawan\Gambaran Besar\[Program] coba9b nambahin centroid\kfcm\kfcm\bin\Debug\kfcm.pdb
+E:\Kharismawan\Gambaran Besar\[Program] coba9b nambahin centroid\kfcm\kfcm\obj\x86\Debug\kfcm.csprojResolveAssemblyReference.cache
+E:\Kharismawan\Gambaran Besar\[Program] coba9b nambahin centroid\kfcm\kfcm\obj\x86\Debug\kfcm.dataakademik.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba9b nambahin centroid\kfcm\kfcm\obj\x86\Debug\kfcm.Form1.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba9b nambahin centroid\kfcm\kfcm\obj\x86\Debug\kfcm.input_fcm.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba9b nambahin centroid\kfcm\kfcm\obj\x86\Debug\kfcm.input_km.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba9b nambahin centroid\kfcm\kfcm\obj\x86\Debug\kfcm.login.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba9b nambahin centroid\kfcm\kfcm\obj\x86\Debug\kfcm.menuadmin.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba9b nambahin centroid\kfcm\kfcm\obj\x86\Debug\kfcm.Properties.Resources.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba9b nambahin centroid\kfcm\kfcm\obj\x86\Debug\kfcm.csproj.GenerateResource.Cache
+E:\Kharismawan\Gambaran Besar\[Program] coba10 revisi seminar\kfcm\kfcm\obj\x86\Debug\kfcm.exe
+E:\Kharismawan\Gambaran Besar\[Program] coba10 revisi seminar\kfcm\kfcm\obj\x86\Debug\kfcm.pdb
+E:\Kharismawan\Gambaran Besar\[Program] coba10 revisi seminar\kfcm\kfcm\obj\x86\Debug\kfcm.csprojResolveAssemblyReference.cache
+E:\Kharismawan\Gambaran Besar\[Program] coba10 revisi seminar\kfcm\kfcm\obj\x86\Debug\kfcm.dataakademik.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba10 revisi seminar\kfcm\kfcm\obj\x86\Debug\kfcm.Form1.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba10 revisi seminar\kfcm\kfcm\obj\x86\Debug\kfcm.input_fcm.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba10 revisi seminar\kfcm\kfcm\obj\x86\Debug\kfcm.input_km.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba10 revisi seminar\kfcm\kfcm\obj\x86\Debug\kfcm.login.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba10 revisi seminar\kfcm\kfcm\obj\x86\Debug\kfcm.menuadmin.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba10 revisi seminar\kfcm\kfcm\obj\x86\Debug\kfcm.Properties.Resources.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba10 revisi seminar\kfcm\kfcm\obj\x86\Debug\kfcm.csproj.GenerateResource.Cache
+E:\Kharismawan\Gambaran Besar\[Program] coba10 revisi seminar\kfcm\kfcm\bin\Debug\kfcm.exe
+E:\Kharismawan\Gambaran Besar\[Program] coba10 revisi seminar\kfcm\kfcm\bin\Debug\kfcm.pdb
+E:\Kharismawan\Gambaran Besar\[Program] coba10b nambahin centroid di km fcm\kfcm\kfcm\obj\x86\Debug\kfcm.exe
+E:\Kharismawan\Gambaran Besar\[Program] coba10b nambahin centroid di km fcm\kfcm\kfcm\obj\x86\Debug\kfcm.pdb
+E:\Kharismawan\Gambaran Besar\[Program] coba10b nambahin centroid di km fcm\kfcm\kfcm\obj\x86\Debug\kfcm.csprojResolveAssemblyReference.cache
+E:\Kharismawan\Gambaran Besar\[Program] coba10b nambahin centroid di km fcm\kfcm\kfcm\obj\x86\Debug\kfcm.dataakademik.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba10b nambahin centroid di km fcm\kfcm\kfcm\obj\x86\Debug\kfcm.Form1.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba10b nambahin centroid di km fcm\kfcm\kfcm\obj\x86\Debug\kfcm.input_fcm.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba10b nambahin centroid di km fcm\kfcm\kfcm\obj\x86\Debug\kfcm.input_km.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba10b nambahin centroid di km fcm\kfcm\kfcm\obj\x86\Debug\kfcm.login.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba10b nambahin centroid di km fcm\kfcm\kfcm\obj\x86\Debug\kfcm.menuadmin.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba10b nambahin centroid di km fcm\kfcm\kfcm\obj\x86\Debug\kfcm.Properties.Resources.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba10b nambahin centroid di km fcm\kfcm\kfcm\obj\x86\Debug\kfcm.csproj.GenerateResource.Cache
+E:\Kharismawan\Gambaran Besar\[Program] coba10b nambahin centroid di km fcm\kfcm\kfcm\bin\Debug\kfcm.exe
+E:\Kharismawan\Gambaran Besar\[Program] coba10b nambahin centroid di km fcm\kfcm\kfcm\bin\Debug\kfcm.pdb
+E:\Kharismawan\Gambaran Besar\[Program] coba11 tabel acak\kfcm\kfcm\obj\x86\Debug\kfcm.exe
+E:\Kharismawan\Gambaran Besar\[Program] coba11 tabel acak\kfcm\kfcm\obj\x86\Debug\kfcm.pdb
+E:\Kharismawan\Gambaran Besar\[Program] coba11 tabel acak\kfcm\kfcm\obj\x86\Debug\kfcm.csprojResolveAssemblyReference.cache
+E:\Kharismawan\Gambaran Besar\[Program] coba11 tabel acak\kfcm\kfcm\obj\x86\Debug\kfcm.dataakademik.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba11 tabel acak\kfcm\kfcm\obj\x86\Debug\kfcm.Form1.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba11 tabel acak\kfcm\kfcm\obj\x86\Debug\kfcm.input_fcm.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba11 tabel acak\kfcm\kfcm\obj\x86\Debug\kfcm.input_km.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba11 tabel acak\kfcm\kfcm\obj\x86\Debug\kfcm.login.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba11 tabel acak\kfcm\kfcm\obj\x86\Debug\kfcm.menuadmin.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba11 tabel acak\kfcm\kfcm\obj\x86\Debug\kfcm.Properties.Resources.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba11 tabel acak\kfcm\kfcm\obj\x86\Debug\kfcm.csproj.GenerateResource.Cache
+E:\Kharismawan\Gambaran Besar\[Program] coba11 tabel acak\kfcm\kfcm\bin\Debug\kfcm.exe
+E:\Kharismawan\Gambaran Besar\[Program] coba11 tabel acak\kfcm\kfcm\bin\Debug\kfcm.pdb
+E:\Kharismawan\Gambaran Besar\[Program] coba11b bikin class\kfcm\kfcm\obj\x86\Debug\kfcm.exe
+E:\Kharismawan\Gambaran Besar\[Program] coba11b bikin class\kfcm\kfcm\obj\x86\Debug\kfcm.pdb
+E:\Kharismawan\Gambaran Besar\[Program] coba11b bikin class\kfcm\kfcm\obj\x86\Debug\kfcm.csprojResolveAssemblyReference.cache
+E:\Kharismawan\Gambaran Besar\[Program] coba11b bikin class\kfcm\kfcm\obj\x86\Debug\kfcm.dataakademik.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba11b bikin class\kfcm\kfcm\obj\x86\Debug\kfcm.Form1.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba11b bikin class\kfcm\kfcm\obj\x86\Debug\kfcm.input_fcm.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba11b bikin class\kfcm\kfcm\obj\x86\Debug\kfcm.input_km.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba11b bikin class\kfcm\kfcm\obj\x86\Debug\kfcm.login.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba11b bikin class\kfcm\kfcm\obj\x86\Debug\kfcm.menuadmin.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba11b bikin class\kfcm\kfcm\obj\x86\Debug\kfcm.Properties.Resources.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba11b bikin class\kfcm\kfcm\obj\x86\Debug\kfcm.csproj.GenerateResource.Cache
+E:\Kharismawan\Gambaran Besar\[Program] coba11b bikin class\kfcm\kfcm\bin\Debug\kfcm.exe
+E:\Kharismawan\Gambaran Besar\[Program] coba11b bikin class\kfcm\kfcm\bin\Debug\kfcm.pdb
+E:\Kharismawan\Gambaran Besar\[Program] coba11b bikin void\kfcm\kfcm\obj\x86\Debug\kfcm.exe
+E:\Kharismawan\Gambaran Besar\[Program] coba11b bikin void\kfcm\kfcm\obj\x86\Debug\kfcm.pdb
+E:\Kharismawan\Gambaran Besar\[Program] coba11b bikin void\kfcm\kfcm\bin\Debug\kfcm.exe
+E:\Kharismawan\Gambaran Besar\[Program] coba11b bikin void\kfcm\kfcm\bin\Debug\kfcm.pdb
+E:\Kharismawan\Gambaran Besar\[Program] coba11b bikin void\kfcm\kfcm\obj\x86\Debug\kfcm.csprojResolveAssemblyReference.cache
+E:\Kharismawan\Gambaran Besar\[Program] coba11b bikin void\kfcm\kfcm\obj\x86\Debug\kfcm.dataakademik.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba11b bikin void\kfcm\kfcm\obj\x86\Debug\kfcm.Form1.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba11b bikin void\kfcm\kfcm\obj\x86\Debug\kfcm.input_fcm.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba11b bikin void\kfcm\kfcm\obj\x86\Debug\kfcm.input_km.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba11b bikin void\kfcm\kfcm\obj\x86\Debug\kfcm.login.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba11b bikin void\kfcm\kfcm\obj\x86\Debug\kfcm.menuadmin.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba11b bikin void\kfcm\kfcm\obj\x86\Debug\kfcm.Properties.Resources.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba11b bikin void\kfcm\kfcm\obj\x86\Debug\kfcm.csproj.GenerateResource.Cache
+E:\Kharismawan\Gambaran Besar\[Program] coba11d message fix Copy\kfcm\kfcm\obj\x86\Debug\kfcm.exe
+E:\Kharismawan\Gambaran Besar\[Program] coba11d message fix Copy\kfcm\kfcm\obj\x86\Debug\kfcm.pdb
+E:\Kharismawan\Gambaran Besar\[Program] coba11d message fix Copy\kfcm\kfcm\bin\Debug\kfcm.exe
+E:\Kharismawan\Gambaran Besar\[Program] coba11d message fix Copy\kfcm\kfcm\bin\Debug\kfcm.pdb
+E:\Kharismawan\Gambaran Besar\[Program] coba11d message fix Copy\kfcm\kfcm\obj\x86\Debug\kfcm.csprojResolveAssemblyReference.cache
+E:\Kharismawan\Gambaran Besar\[Program] coba11d message fix Copy\kfcm\kfcm\obj\x86\Debug\kfcm.dataakademik.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba11d message fix Copy\kfcm\kfcm\obj\x86\Debug\kfcm.Form1.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba11d message fix Copy\kfcm\kfcm\obj\x86\Debug\kfcm.input_fcm.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba11d message fix Copy\kfcm\kfcm\obj\x86\Debug\kfcm.input_km.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba11d message fix Copy\kfcm\kfcm\obj\x86\Debug\kfcm.login.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba11d message fix Copy\kfcm\kfcm\obj\x86\Debug\kfcm.menuadmin.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba11d message fix Copy\kfcm\kfcm\obj\x86\Debug\kfcm.Properties.Resources.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba11d message fix Copy\kfcm\kfcm\obj\x86\Debug\kfcm.csproj.GenerateResource.Cache
+E:\Kharismawan\Gambaran Besar\[Program] coba11e algo baru\kfcm\kfcm\obj\x86\Debug\kfcm.exe
+E:\Kharismawan\Gambaran Besar\[Program] coba11e algo baru\kfcm\kfcm\obj\x86\Debug\kfcm.pdb
+E:\Kharismawan\Gambaran Besar\[Program] coba11e algo baru\kfcm\kfcm\bin\Debug\kfcm.exe
+E:\Kharismawan\Gambaran Besar\[Program] coba11e algo baru\kfcm\kfcm\bin\Debug\kfcm.pdb
+E:\Kharismawan\Gambaran Besar\[Program] coba11e algo baru\kfcm\kfcm\obj\x86\Debug\kfcm.csprojResolveAssemblyReference.cache
+E:\Kharismawan\Gambaran Besar\[Program] coba11e algo baru\kfcm\kfcm\obj\x86\Debug\kfcm.dataakademik.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba11e algo baru\kfcm\kfcm\obj\x86\Debug\kfcm.Form1.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba11e algo baru\kfcm\kfcm\obj\x86\Debug\kfcm.input_fcm.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba11e algo baru\kfcm\kfcm\obj\x86\Debug\kfcm.input_km.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba11e algo baru\kfcm\kfcm\obj\x86\Debug\kfcm.login.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba11e algo baru\kfcm\kfcm\obj\x86\Debug\kfcm.menuadmin.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba11e algo baru\kfcm\kfcm\obj\x86\Debug\kfcm.Properties.Resources.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba11e algo baru\kfcm\kfcm\obj\x86\Debug\kfcm.csproj.GenerateResource.Cache
+E:\Kharismawan\Gambaran Besar\[Program] coba11f algo iterasi dari 1\kfcm\kfcm\obj\x86\Debug\kfcm.exe
+E:\Kharismawan\Gambaran Besar\[Program] coba11f algo iterasi dari 1\kfcm\kfcm\obj\x86\Debug\kfcm.pdb
+E:\Kharismawan\Gambaran Besar\[Program] coba11f algo iterasi dari 1\kfcm\kfcm\obj\x86\Debug\kfcm.csprojResolveAssemblyReference.cache
+E:\Kharismawan\Gambaran Besar\[Program] coba11f algo iterasi dari 1\kfcm\kfcm\obj\x86\Debug\kfcm.dataakademik.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba11f algo iterasi dari 1\kfcm\kfcm\obj\x86\Debug\kfcm.Form1.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba11f algo iterasi dari 1\kfcm\kfcm\obj\x86\Debug\kfcm.input_fcm.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba11f algo iterasi dari 1\kfcm\kfcm\obj\x86\Debug\kfcm.input_km.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba11f algo iterasi dari 1\kfcm\kfcm\obj\x86\Debug\kfcm.login.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba11f algo iterasi dari 1\kfcm\kfcm\obj\x86\Debug\kfcm.menuadmin.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba11f algo iterasi dari 1\kfcm\kfcm\obj\x86\Debug\kfcm.Properties.Resources.resources
+E:\Kharismawan\Gambaran Besar\[Program] coba11f algo iterasi dari 1\kfcm\kfcm\obj\x86\Debug\kfcm.csproj.GenerateResource.Cache
+E:\Kharismawan\Gambaran Besar\[Program] coba11f algo iterasi dari 1\kfcm\kfcm\bin\Debug\kfcm.exe
+E:\Kharismawan\Gambaran Besar\[Program] coba11f algo iterasi dari 1\kfcm\kfcm\bin\Debug\kfcm.pdb
+E:\Kharismawan\Gambaran Besar\[Program] 2 rapake zedgraph\kfcm\kfcm\obj\x86\Debug\kfcm.exe
+E:\Kharismawan\Gambaran Besar\[Program] 2 rapake zedgraph\kfcm\kfcm\obj\x86\Debug\kfcm.pdb
+E:\Kharismawan\Gambaran Besar\[Program] 2 rapake zedgraph\kfcm\kfcm\obj\x86\Debug\kfcm.csprojResolveAssemblyReference.cache
+E:\Kharismawan\Gambaran Besar\[Program] 2 rapake zedgraph\kfcm\kfcm\obj\x86\Debug\kfcm.dataakademik.resources
+E:\Kharismawan\Gambaran Besar\[Program] 2 rapake zedgraph\kfcm\kfcm\obj\x86\Debug\kfcm.Form1.resources
+E:\Kharismawan\Gambaran Besar\[Program] 2 rapake zedgraph\kfcm\kfcm\obj\x86\Debug\kfcm.input_fcm.resources
+E:\Kharismawan\Gambaran Besar\[Program] 2 rapake zedgraph\kfcm\kfcm\obj\x86\Debug\kfcm.input_km.resources
+E:\Kharismawan\Gambaran Besar\[Program] 2 rapake zedgraph\kfcm\kfcm\obj\x86\Debug\kfcm.login.resources
+E:\Kharismawan\Gambaran Besar\[Program] 2 rapake zedgraph\kfcm\kfcm\obj\x86\Debug\kfcm.menuadmin.resources
+E:\Kharismawan\Gambaran Besar\[Program] 2 rapake zedgraph\kfcm\kfcm\obj\x86\Debug\kfcm.Properties.Resources.resources
+E:\Kharismawan\Gambaran Besar\[Program] 2 rapake zedgraph\kfcm\kfcm\obj\x86\Debug\kfcm.csproj.GenerateResource.Cache
+E:\Kharismawan\Gambaran Besar\[Program] 2 rapake zedgraph\kfcm\kfcm\bin\Debug\kfcm.exe
+E:\Kharismawan\Gambaran Besar\[Program] 2 rapake zedgraph\kfcm\kfcm\bin\Debug\kfcm.pdb
+E:\Kharismawan\Gambaran Besar\[Program] 2 rapihin dari2\kfcm\kfcm\obj\x86\Debug\kfcm.exe
+E:\Kharismawan\Gambaran Besar\[Program] 2 rapihin dari2\kfcm\kfcm\obj\x86\Debug\kfcm.pdb
+E:\Kharismawan\Gambaran Besar\[Program] 2 rapihin dari2\kfcm\kfcm\obj\x86\Debug\kfcm.csprojResolveAssemblyReference.cache
+E:\Kharismawan\Gambaran Besar\[Program] 2 rapihin dari2\kfcm\kfcm\obj\x86\Debug\kfcm.dataakademik.resources
+E:\Kharismawan\Gambaran Besar\[Program] 2 rapihin dari2\kfcm\kfcm\obj\x86\Debug\kfcm.Form1.resources
+E:\Kharismawan\Gambaran Besar\[Program] 2 rapihin dari2\kfcm\kfcm\obj\x86\Debug\kfcm.input_fcm.resources
+E:\Kharismawan\Gambaran Besar\[Program] 2 rapihin dari2\kfcm\kfcm\obj\x86\Debug\kfcm.input_km.resources
+E:\Kharismawan\Gambaran Besar\[Program] 2 rapihin dari2\kfcm\kfcm\obj\x86\Debug\kfcm.login.resources
+E:\Kharismawan\Gambaran Besar\[Program] 2 rapihin dari2\kfcm\kfcm\obj\x86\Debug\kfcm.menuadmin.resources
+E:\Kharismawan\Gambaran Besar\[Program] 2 rapihin dari2\kfcm\kfcm\obj\x86\Debug\kfcm.Properties.Resources.resources
+E:\Kharismawan\Gambaran Besar\[Program] 2 rapihin dari2\kfcm\kfcm\obj\x86\Debug\kfcm.csproj.GenerateResource.Cache
+E:\Kharismawan\Gambaran Besar\[Program] 2 rapihin dari2\kfcm\kfcm\bin\Debug\kfcm.exe
+E:\Kharismawan\Gambaran Besar\[Program] 2 rapihin dari2\kfcm\kfcm\bin\Debug\kfcm.pdb
+E:\Kharismawan\Gambaran Besar\[Program] 2a catch!\kfcm\kfcm\obj\x86\Debug\kfcm.exe
+E:\Kharismawan\Gambaran Besar\[Program] 2a catch!\kfcm\kfcm\obj\x86\Debug\kfcm.pdb
+E:\Kharismawan\Gambaran Besar\[Program] 2a catch!\kfcm\kfcm\obj\x86\Debug\kfcm.csprojResolveAssemblyReference.cache
+E:\Kharismawan\Gambaran Besar\[Program] 2a catch!\kfcm\kfcm\obj\x86\Debug\kfcm.dataakademik.resources
+E:\Kharismawan\Gambaran Besar\[Program] 2a catch!\kfcm\kfcm\obj\x86\Debug\kfcm.Form1.resources
+E:\Kharismawan\Gambaran Besar\[Program] 2a catch!\kfcm\kfcm\obj\x86\Debug\kfcm.input_fcm.resources
+E:\Kharismawan\Gambaran Besar\[Program] 2a catch!\kfcm\kfcm\obj\x86\Debug\kfcm.input_km.resources
+E:\Kharismawan\Gambaran Besar\[Program] 2a catch!\kfcm\kfcm\obj\x86\Debug\kfcm.login.resources
+E:\Kharismawan\Gambaran Besar\[Program] 2a catch!\kfcm\kfcm\obj\x86\Debug\kfcm.menuadmin.resources
+E:\Kharismawan\Gambaran Besar\[Program] 2a catch!\kfcm\kfcm\obj\x86\Debug\kfcm.Properties.Resources.resources
+E:\Kharismawan\Gambaran Besar\[Program] 2a catch!\kfcm\kfcm\obj\x86\Debug\kfcm.csproj.GenerateResource.Cache
+E:\Kharismawan\Gambaran Besar\[Program] 2a catch!\kfcm\kfcm\bin\Debug\kfcm.exe
+E:\Kharismawan\Gambaran Besar\[Program] 2a catch!\kfcm\kfcm\bin\Debug\kfcm.pdb
+E:\Kharismawan\Gambaran Besar\[Program] 2a coba kelas\kfcm\kfcm\obj\x86\Debug\kfcm.exe
+E:\Kharismawan\Gambaran Besar\[Program] 2a coba kelas\kfcm\kfcm\obj\x86\Debug\kfcm.pdb
+E:\Kharismawan\Gambaran Besar\[Program] 2a coba kelas\kfcm\kfcm\bin\Debug\kfcm.exe
+E:\Kharismawan\Gambaran Besar\[Program] 2a coba kelas\kfcm\kfcm\bin\Debug\kfcm.pdb
+E:\Kharismawan\Gambaran Besar\[Program] 2a coba kelas\kfcm\kfcm\obj\x86\Debug\kfcm.csprojResolveAssemblyReference.cache
+E:\Kharismawan\Gambaran Besar\[Program] 2a coba kelas\kfcm\kfcm\obj\x86\Debug\kfcm.dataakademik.resources
+E:\Kharismawan\Gambaran Besar\[Program] 2a coba kelas\kfcm\kfcm\obj\x86\Debug\kfcm.Form1.resources
+E:\Kharismawan\Gambaran Besar\[Program] 2a coba kelas\kfcm\kfcm\obj\x86\Debug\kfcm.input_fcm.resources
+E:\Kharismawan\Gambaran Besar\[Program] 2a coba kelas\kfcm\kfcm\obj\x86\Debug\kfcm.input_km.resources
+E:\Kharismawan\Gambaran Besar\[Program] 2a coba kelas\kfcm\kfcm\obj\x86\Debug\kfcm.login.resources
+E:\Kharismawan\Gambaran Besar\[Program] 2a coba kelas\kfcm\kfcm\obj\x86\Debug\kfcm.menuadmin.resources
+E:\Kharismawan\Gambaran Besar\[Program] 2a coba kelas\kfcm\kfcm\obj\x86\Debug\kfcm.Properties.Resources.resources
+E:\Kharismawan\Gambaran Besar\[Program] 2a coba kelas\kfcm\kfcm\obj\x86\Debug\kfcm.csproj.GenerateResource.Cache
+E:\Kharismawan\Gambaran Besar\[Program] 2a comen\kfcm\kfcm\obj\x86\Debug\kfcm.exe
+E:\Kharismawan\Gambaran Besar\[Program] 2a comen\kfcm\kfcm\obj\x86\Debug\kfcm.pdb
+E:\Kharismawan\Gambaran Besar\[Program] 2a comen\kfcm\kfcm\bin\Debug\kfcm.exe
+E:\Kharismawan\Gambaran Besar\[Program] 2a comen\kfcm\kfcm\bin\Debug\kfcm.pdb
+E:\Kharismawan\Gambaran Besar\[Program] 2a comen\kfcm\kfcm\obj\x86\Debug\kfcm.csprojResolveAssemblyReference.cache
+E:\Kharismawan\Gambaran Besar\[Program] 2a comen\kfcm\kfcm\obj\x86\Debug\kfcm.dataakademik.resources
+E:\Kharismawan\Gambaran Besar\[Program] 2a comen\kfcm\kfcm\obj\x86\Debug\kfcm.Form1.resources
+E:\Kharismawan\Gambaran Besar\[Program] 2a comen\kfcm\kfcm\obj\x86\Debug\kfcm.input_fcm.resources
+E:\Kharismawan\Gambaran Besar\[Program] 2a comen\kfcm\kfcm\obj\x86\Debug\kfcm.input_km.resources
+E:\Kharismawan\Gambaran Besar\[Program] 2a comen\kfcm\kfcm\obj\x86\Debug\kfcm.login.resources
+E:\Kharismawan\Gambaran Besar\[Program] 2a comen\kfcm\kfcm\obj\x86\Debug\kfcm.menuadmin.resources
+E:\Kharismawan\Gambaran Besar\[Program] 2a comen\kfcm\kfcm\obj\x86\Debug\kfcm.Properties.Resources.resources
+E:\Kharismawan\Gambaran Besar\[Program] 2a comen\kfcm\kfcm\obj\x86\Debug\kfcm.csproj.GenerateResource.Cache
+E:\Kharismawan\Gambaran Besar\[Program] 2a tuker tempat\kfcm\kfcm\obj\x86\Debug\kfcm.exe
+E:\Kharismawan\Gambaran Besar\[Program] 2a tuker tempat\kfcm\kfcm\obj\x86\Debug\kfcm.pdb
+E:\Kharismawan\Gambaran Besar\[Program] 2a tuker tempat\kfcm\kfcm\bin\Debug\kfcm.exe
+E:\Kharismawan\Gambaran Besar\[Program] 2a tuker tempat\kfcm\kfcm\bin\Debug\kfcm.pdb
+E:\Kharismawan\Gambaran Besar\[Program] 2a tuker tempat\kfcm\kfcm\obj\x86\Debug\kfcm.csprojResolveAssemblyReference.cache
+E:\Kharismawan\Gambaran Besar\[Program] 2a tuker tempat\kfcm\kfcm\obj\x86\Debug\kfcm.dataakademik.resources
+E:\Kharismawan\Gambaran Besar\[Program] 2a tuker tempat\kfcm\kfcm\obj\x86\Debug\kfcm.Form1.resources
+E:\Kharismawan\Gambaran Besar\[Program] 2a tuker tempat\kfcm\kfcm\obj\x86\Debug\kfcm.input_fcm.resources
+E:\Kharismawan\Gambaran Besar\[Program] 2a tuker tempat\kfcm\kfcm\obj\x86\Debug\kfcm.input_km.resources
+E:\Kharismawan\Gambaran Besar\[Program] 2a tuker tempat\kfcm\kfcm\obj\x86\Debug\kfcm.login.resources
+E:\Kharismawan\Gambaran Besar\[Program] 2a tuker tempat\kfcm\kfcm\obj\x86\Debug\kfcm.menuadmin.resources
+E:\Kharismawan\Gambaran Besar\[Program] 2a tuker tempat\kfcm\kfcm\obj\x86\Debug\kfcm.Properties.Resources.resources
+E:\Kharismawan\Gambaran Besar\[Program] 2a tuker tempat\kfcm\kfcm\obj\x86\Debug\kfcm.csproj.GenerateResource.Cache
+E:\Kharismawan\Gambaran Besar\[Program] 2a FINAL\kfcm\kfcm\obj\x86\Debug\kfcm.exe
+E:\Kharismawan\Gambaran Besar\[Program] 2a FINAL\kfcm\kfcm\obj\x86\Debug\kfcm.pdb
+C:\Users\dell\Desktop\New folder\[Program] FINAL\kfcm\kfcm\obj\x86\Debug\kfcm.exe
+C:\Users\dell\Desktop\New folder\[Program] FINAL\kfcm\kfcm\obj\x86\Debug\kfcm.pdb
+D:\Kharismawan\Skripsee\ALL + REVISIAN\[Program] FINAL\kfcm\kfcm\obj\x86\Debug\kfcm.exe
+D:\Kharismawan\Skripsee\ALL + REVISIAN\[Program] FINAL\kfcm\kfcm\obj\x86\Debug\kfcm.pdb
+D:\Kharismawan\Skripsee\ALL + REVISIAN\[Program] FINAL\kfcm\kfcm\obj\x86\Debug\kfcm.csprojResolveAssemblyReference.cache
+D:\Kharismawan\Skripsee\ALL + REVISIAN\[Program] FINAL\kfcm\kfcm\obj\x86\Debug\kfcm.dataakademik.resources
+D:\Kharismawan\Skripsee\ALL + REVISIAN\[Program] FINAL\kfcm\kfcm\obj\x86\Debug\kfcm.Form1.resources
+D:\Kharismawan\Skripsee\ALL + REVISIAN\[Program] FINAL\kfcm\kfcm\obj\x86\Debug\kfcm.input_fcm.resources
+D:\Kharismawan\Skripsee\ALL + REVISIAN\[Program] FINAL\kfcm\kfcm\obj\x86\Debug\kfcm.input_km.resources
+D:\Kharismawan\Skripsee\ALL + REVISIAN\[Program] FINAL\kfcm\kfcm\obj\x86\Debug\kfcm.login.resources
+D:\Kharismawan\Skripsee\ALL + REVISIAN\[Program] FINAL\kfcm\kfcm\obj\x86\Debug\kfcm.menuadmin.resources
+D:\Kharismawan\Skripsee\ALL + REVISIAN\[Program] FINAL\kfcm\kfcm\obj\x86\Debug\kfcm.Properties.Resources.resources
+D:\Kharismawan\Skripsee\ALL + REVISIAN\[Program] FINAL\kfcm\kfcm\obj\x86\Debug\kfcm.csproj.GenerateResource.Cache
